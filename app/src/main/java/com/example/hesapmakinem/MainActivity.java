@@ -43,11 +43,7 @@ public class MainActivity extends AppCompatActivity {
         btnyz=findViewById(R.id.btnyz);
         btnAc=findViewById(R.id.btnAc);
     }
-    // tamamaıyla temizleme butonu ekle
 
-    
-    //sayıları strng olarak alıcam işleme geçince int, işlem,sayıları alıcam int çevirip sonuc vricem
-    //btn1 ->"1",btn2->"2"=="1"+"2"="12"(int)işlem(+)"21"(int)
     @SuppressLint("SetTextI18n")
     public void click(View view) {
         int id = view.getId();
