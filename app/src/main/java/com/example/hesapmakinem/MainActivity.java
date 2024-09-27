@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     protected Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9,btn0;
     protected Button sil,btnbol,btncarp,btncik,btnnok,btnes,btntop,btnyz,btnAc;
 
-    protected String sayi="",sayi1="",sayi2="";
+    protected String sayi1="",sayi2="";
     protected  String islem = "";
 
     @SuppressLint("MissingInflatedId")
